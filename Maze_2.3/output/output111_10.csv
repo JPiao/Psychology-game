@@ -1,0 +1,5 @@
+SUBJECT, COUNT, DEPTH, L_CUE_TYPE, LVALUE, LIMAGE, LPROBS, C_CUE_TYPE, CVALUE, CIMAGE, CPROBS, R_CUE_TYPE, RVALUE, RIMAGE, RPROBS, CHASING_CUE, CHOICE, DIRECTION, INVENTORY0, INVENTORY1, INVENTORY2, PRIZE0, PRIZE1, PRIZE2, DEC0, DEC1, DEC2
+111,0,0,None,None,None,None,None,None,None,None,None,None,None,None,-1,None,centre,0.0,0,0.0
+111,1,1,None,None,None,None,None,None,None,None,None,None,None,None,None,-1,right,0.0,0,0.0
+111,2,1,None,None,None,None,None,None,None,None,None,None,None,None,None,-1,centre,0.0,0,0.0
+111,3,2,None,None,None,None,None,None,None,None,None,None,None,None,None,-1,centre,0.0,0,0.0
